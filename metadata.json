@@ -1,0 +1,8 @@
+{
+  "name": "NexusHost Global - Real-Time Web Hosting & Sandboxed Execution Platform",
+  "description": "Ultra-fast real-time global HTML/CSS/JS cloud hosting, live code execution sandbox, multi-tab IDE, version control, bKash/Nagad verification, and enterprise admin control center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
